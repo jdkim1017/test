@@ -1,0 +1,25 @@
+201125_인피니언 칩 개발환경 설치 순서
+
+1. java8 32bit install
+C:\smavis\2020년10월26일 받은 자료\Generic Tools\SmartCardManager7\jdk-8u271-windows-i586.exe
+
+2. smartcardManager install
+C:\smavis\2020년10월26일 받은 자료\Generic Tools\SmartCardManager7\SmartCardManager_7-7-0-0_Installer_SDKCCupd-SP000879446__\SmartCardManager_7-7-0-0_Installer_SDKCCupd-SP000879446
+
+3. keil compiler install
+C:\smavis\2020년10월26일 받은 자료\16bit Download Area(SLE70, SLC x2)\SDK\SDKCC70_V9-15-0-6102_Keil-DK251-SP000440256__\c251v560.exe
+
+4. infineon sdk install
+C:\smavis\2020년10월26일 받은 자료\16bit Download Area(SLE70, SLC x2)\SDK\SDKCC70_V9-15-0-6102_IFX-Extensions-Installer-SP000440256_5-60__\SDKCC70_V9-15-0-6102_IFX-Extensions-Installer-SP000440256_5-60__\SDK_x2-SLE70-9.15.0-6102.exe
+
+5. sample program
+C:\Keil_v5\Infineon\Application Notes & Samples\AppNotes-SLCx2\IFX_AppNotes_SLCx2V3\IFX_AppNotes_SLCx2V3 - 제거후 최초
+
+6. keil license 등록 방법
+C:\Keil_v5\UV4\UV4.exe 을 관리자 권한으로 실행
+file > license management > single-user licnese 에서 mail로 받은 license id 등록
+
+7. infineon sdk license 등록 방법
+인피니언 사이트에서 받은 id를 위 6의 방법으로 등록
+
+
